@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5x8/nFOXVLH063ZN+Ze6F52+S0XdtXnHzTTcp6Y3Amf7PJVloqOXCTzhb9Mh0lwb5Lx7VxjlLAI1a+jZEpyRQ==",
+  "success": true,
+  "projectFilePath": "/home/evan/Codespace/FSharpStudy/Literals/Literals.fsproj",
+  "expectedPackageFiles": [
+    "/home/evan/.nuget/packages/fsharp.core/6.0.7/fsharp.core.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
